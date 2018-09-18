@@ -8,15 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 由SUP MUSIC旗下两位艺人组成的音乐小组X!GO在音乐上的一次短途实验，为期两个月的一次Mixtape作业。
 Artwork by 嚴子臣
 Designed by 質作室
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+###由SUP MUSIC旗下两位艺人组成的音乐小组X!GO在音乐上的一次短途实验，为期两个月的一次Mixtape作业。
+Artwork by 嚴子臣
+Designed by 質作室
 - Bulleted
 - List
 
