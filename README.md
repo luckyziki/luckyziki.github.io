@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这是来自长沙萨普厂牌的音乐小组——X！go
 
 You can use the [editor on GitHub](https://github.com/luckyziki/luckyziki.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
