@@ -1,11 +1,13 @@
-## 这是来自长沙萨普厂牌的音乐小组——X！go
+## 这是来自长沙萨普厂牌的音乐小组——X！GO
 
 You can use the [editor on GitHub](https://github.com/luckyziki/luckyziki.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### 成员 Ranzer+East
+由SUP MUSIC旗下两位艺人组成的音乐小组X!GO在音乐上的一次短途实验，为期两个月的一次Mixtape作业。
+Artwork by 嚴子臣
+Designed by 質作室
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
